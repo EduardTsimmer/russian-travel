@@ -8,6 +8,8 @@
 * Grid Layout
 * независимые блоки Ul
 * div блоки
-* Jрганизация файлов по технологии Nested
+* Организация файлов по технологии Nested
+
+* Ссылка на проектну работу https://eduardtsimmer.github.io/russian-travel/index.html
 
 
