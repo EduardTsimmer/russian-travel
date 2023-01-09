@@ -10,7 +10,7 @@
     color: #fff;
   }
   
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 425px) {
     .lead__subtitle {
       width: 288px;
       /* height: 40px; */

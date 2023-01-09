@@ -8,7 +8,7 @@
     padding: 0;
   }
   
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1279px) {
     .photo-grid {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       max-width: 928px;
@@ -16,7 +16,7 @@
     }
   }
   
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1023px) {
     .photo-grid {
       grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
       max-width: 720px;
@@ -26,7 +26,7 @@
     }
   }
   
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 425px) {
     .photo-grid {
       grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
       max-width: 288px;
