@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+.footer__list-item:nth-child(5){
+    margin: 0;
+}
+
 @media screen and (max-width: 767px) {
   .footer__list-item {
   margin-bottom: 32px;  
